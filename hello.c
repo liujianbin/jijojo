@@ -3,7 +3,7 @@ int main (void)
 {
    printf("cubieboard");
 
-   printf("1-1");
+   printf("1+1");
    return 0;
 
 
