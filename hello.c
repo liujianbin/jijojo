@@ -1,11 +1,11 @@
 #include<stdio.h>
-main(void)
+int main (void)
 {
-   int a ,int b
-   printf("hello world \n");
-   printf("100-20=%d\n",sub(100,20))
+   printf("cubieboard");
 
-   return a-b;
+   printf("1+1=2");
+   return 0;
+
 
 
 }
